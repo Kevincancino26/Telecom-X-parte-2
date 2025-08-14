@@ -110,7 +110,7 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo para identifi
 
 ## 👨‍💻 Autor  
 - **Nombre**: Kevin Gutierrez Cancino  
-- **Contacto**: kevincancino15@gmail.com.  
+- **Contacto**: kevincancino15@gmail.com. https://github.com/Kevincancino26  
 
 *Documentación generada para el proyecto Telecom X - Parte 2 (Rev00).*  
 📅 **Fecha**: 14/09/25. 
